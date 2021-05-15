@@ -10,8 +10,8 @@ body {
 
 .contenedor-slider {
   margin: auto;
-  width: 85%;
-  max-width: 900px;
+  width: 48%;
+  max-width: 500px;
   position: relative;
   overflow: hidden;
   box-shadow: 0 0 0 10px #fff,
